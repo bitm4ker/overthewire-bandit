@@ -27,6 +27,6 @@ cat ./--spaces\ in\ this\ filename--
 Alternatively, typing the beginning of the filename and pressing Tab will autocomplete it with proper escaping automatically.
 
 ## What I Learned
-Overall, I learned what the shell interprets whitespace as (explained in What I Learned). I also learned how to open filenames with spaces by specifying the path by wrapping the filename in quotation marks (example in "Commands Used")
+Overall, I learned what the shell interprets whitespace as (explained in Why It Worked). I also learned how to open filenames with spaces by specifying the path by wrapping the filename in quotation marks (example in "Commands Used")
 ## Summary
 This level demonstrates how shell whitespace splitting affects filenames and how quoting prevents argument separation.
