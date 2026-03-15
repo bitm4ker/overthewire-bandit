@@ -16,4 +16,5 @@ Each writeup covers my observations, approach, steps taken, and what I learned.
 ## Progress
 | Level | Status |
 |-------|--------|
-| Level 0 | 🔄 In Progress |
+| Level 0 | ✅ Completed |
+| Level 1 | ✅ Completed |
