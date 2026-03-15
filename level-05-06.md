@@ -22,6 +22,7 @@ find -size 67c
 ## Note
 The `find` command supports searching by file size using unit suffixes:
 `c` = bytes, `k` = kilobytes, `M` = megabytes, `G` = gigabytes.
+quotes were used in the Commands Used but aren't required since the filename contains no spaces or special characters.
 ## What I Learned
 I learned about the find command along with the unit suffixes which allow searching for a file using a specific size filter. 
 ## Summary
