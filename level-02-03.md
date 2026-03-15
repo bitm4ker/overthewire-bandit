@@ -19,6 +19,13 @@ cat "ARGUMENT ONE"
 ```
 ## Note
 Because of the way whitespace is interpreted, Linux users prefer filenames without spaces.
+Alternative:
+```bash
+# This is alternative ways to open files with spaces in the name
+cat ./--spaces\ in\ this\ filename-
+```
+Alternatively, typing the beginning of the filename and pressing Tab will autocomplete it with proper escaping automatically.
+
 ## What I Learned
 Overall, I learned what the shell interprets whitespace as. I also learned how to open filenames with spaces by specifying the path using "./" and wrapping the filename in quotation marks (example in "Commands Used")
 ## Summary
