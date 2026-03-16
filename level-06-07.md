@@ -1,4 +1,4 @@
-# Level X → Level X+1
+# Level 6 → Level 7
 
 ## Objective
 Find the password stored somewhere on the server with specific user, group, and size properties. 
