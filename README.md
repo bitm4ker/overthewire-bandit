@@ -16,3 +16,8 @@ Each writeup covers my observations, approach, steps taken, and what I learned.
 | Level 0 | ✅ Completed |
 | Level 1 | ✅ Completed |
 | Level 2 | ✅ Completed |
+| Level 3 | ✅ Completed |
+| Level 4 | ✅ Completed |
+| Level 5 | ✅ Completed |
+| Level 6 | ✅ Completed |
+| Level 7 | ✅ Completed |
