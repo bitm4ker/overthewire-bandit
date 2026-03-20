@@ -18,7 +18,7 @@ EX:
 ``` bash
 ## Assuming xyz literally contains the letters xyz 
 cat xyz | tr 'A-Za-z' 'N-ZA-Mn-za-m'
-KLM
+klm
 ```
 Further notes for me:
 For the first set A-Z matches all uppercase letters and a-z matches all lowercase letters, excluding no letters.
