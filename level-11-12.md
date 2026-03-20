@@ -17,7 +17,7 @@ To explain using laymen explanation: "A-Za-z" matches all uppercase and lowercas
 EX:
 ``` bash
 ## Assuming xyz literally contains the letters xyz 
-cat xyz | tr 'A-Za-z' 'n-ZA-Mn-za-m'
+cat xyz | tr 'A-Za-z' 'N-ZA-Mn-za-m'
 KLM
 ```
 Further notes for me:
