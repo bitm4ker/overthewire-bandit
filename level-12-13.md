@@ -60,10 +60,10 @@ FLAG
 ```
 
 ## Why It Worked
-This worked because I used three different methods of extraction and worked my way up to data8, which was a ASCII text file after opening it I recieved the flag. Each extraction reversed the hexdump.
+This worked because I used three different methods of extraction and worked my way up to data8, which was a ASCII text file after opening it I received the flag. Each extraction decompressed the layered compression formats.
 ## Note
 This is one of the more tedious levels, as I said methods vary when it comes to completion.
 ## What I Learned
 I learned how to reverse a hexdump using extraction commands such as tar, gunzip, and bunzip2. 
 ## Summary
-Extract a hexdump in order to recieve the flag.
+Extract a hexdump in order to receive the flag.
