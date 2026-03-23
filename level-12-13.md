@@ -8,7 +8,7 @@ Reversing Hexdumps
 ## Commands Used
 ```bash
 ## Methods vary but this is how I personally solved it
-## Extracting is repeated mutliple times in this walkthrough 
+## Extracting is repeated multiple times in this walkthrough 
 ## I do this often to make sure I work with the correct files
 ls
 ## Creates a unique temporary directory with a hard to guess name
@@ -46,8 +46,6 @@ ls
 file data5.bin
 tar xf data5.bin
 ls
-file data6.bin
-bunzip2 data6.bin
 file data6.bin
 bunzip2 data6.bin
 file data6.bin.out
