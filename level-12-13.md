@@ -7,6 +7,7 @@ Perform a reverse Hexdump within layers
 Reversing Hexdumps 
 ## Commands Used
 ```bash
+## Methods vary but this is how I persoanlly solved it
 ls
 mktemp -d
 cd /tmp/tmp.hardtoguess
