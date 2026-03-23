@@ -62,6 +62,7 @@ FLAG
 ## Why It Worked
 This worked because I used three different methods of extraction and worked my way up to data8, which was a ASCII text file after opening it I received the flag. Each extraction decompressed the layered compression formats.
 ## Note
+File is relied upon heavily to determine what type of comrpession is used and which extraction method is needed.
 This is one of the more tedious levels, as I said methods vary when it comes to completion.
 ## What I Learned
 I learned how to reverse a hexdump using extraction commands such as tar, gunzip, and bunzip2. 
