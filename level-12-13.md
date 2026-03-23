@@ -16,7 +16,7 @@ mktemp -d
 ## Enters said directory 
 cd /tmp/tmp.hardtoguess
 ## copies data.txt into the directory 
-cp ~/data.txt //tmp/tmp.hardtoguess/
+cp ~/data.txt /tmp/tmp.hardtoguess/
 ls
 ## Prints data.txt
 cat data.txt
@@ -60,13 +60,10 @@ FLAG
 ```
 
 ## Why It Worked
-*2-3 sentences max.*
-
+This worked because I used three different methods of extraction and worked my way up to data8, which was a ASCII text file after opening it I recieved the flag. Each extraction reversed the hexdump.
 ## Note
-*Optional.*
-
+This is one of the more tedious levels, as I said methods vary when it comes to completion.
 ## What I Learned
-*One or two sentences.*
-
+I learned how to reverse a hexdump using extraction commands such as tar, gunzip, and bunzip2. 
 ## Summary
-*One sentence.*
+Extract a hexdump in order to recieve the flag.
