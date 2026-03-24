@@ -65,7 +65,7 @@ This worked because I used three different methods of extraction and worked my w
 Decompression chain:
 hexdump → gzip → bzip2 → gzip → tar → tar → bzip2 → tar → gzip → ASCII
 
-File is relied upon heavily to determine what type of comrpession is used and which extraction method is needed.
+File is relied upon heavily to determine what type of compression is used and which extraction method is needed.
 
 This is one of the more tedious levels, as I said methods vary when it comes to completion.
 
