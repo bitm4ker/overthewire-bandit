@@ -1,10 +1,10 @@
 # Level 12 → Level 13
 
 ## Objective
-Perform a reverse Hexdump within layers
+Perform a reverse Hexdump within compressed layers
 
 ## Key Concept
-Reversing Hexdumps 
+Reversing Hexdumps with nested compression formats 
 ## Commands Used
 ```bash
 ## Methods vary but this is how I personally solved it
@@ -70,6 +70,6 @@ File is relied upon heavily to determine what type of compression is used and wh
 This is one of the more tedious levels, as I said methods vary when it comes to completion.
 
 ## What I Learned
-I learned how to reverse a hexdump using extraction commands such as tar, gunzip, and bunzip2. 
+I learned how to reverse a hexdump using commands such as tar, gunzip, and bunzip2, tar is for archiving, the rest are to extract. 
 ## Summary
-Extract a hexdump in order to receive the flag.
+Extract a hexdump with nested compression layers in order to receive the flag.
